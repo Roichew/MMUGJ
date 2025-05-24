@@ -1,0 +1,30 @@
+{
+	"packageCache":
+	{
+		"/Game/Animation/Wolf/ABP_Wolf":
+		{
+			"graphCache":
+			{
+				"727B98FF42214C2763BBFEB9DDF1AA9B":
+				{
+					"cachedNodes":
+					{
+					}
+				},
+				"930DDC5147B6857A906A7296A1535263":
+				{
+					"cachedNodes":
+					{
+					}
+				},
+				"91D695C0428BA3F592F8F7BEFA9C8067":
+				{
+					"cachedNodes":
+					{
+					}
+				}
+			}
+		}
+	},
+	"cacheVersion": 1
+}
